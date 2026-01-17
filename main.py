@@ -41,7 +41,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",  # Vite default
-        "http://localhost:3000",  # CRA default
+        "https://steamrecs-frontend.vercel.app/",  # CRA default
     ],
     allow_credentials=True,
     allow_methods=["*"],
