@@ -1,0 +1,40 @@
+annotated-doc==0.0.4
+annotated-types==0.7.0
+anyio==4.12.1
+brotlicffi @ file:///C:/miniconda3/conda-bld/brotlicffi_1764961370587/work
+certifi @ file:///C:/Users/task_176765900829408/croot/certifi_1767659214946/work/certifi
+cffi @ file:///C:/miniconda3/conda-bld/cffi_1761832792265/work
+charset-normalizer @ file:///C:/miniconda3/conda-bld/charset-normalizer_1761745005832/work
+click==8.3.1
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
+fastapi==0.128.0
+h11==0.16.0
+httptools==0.7.1
+idna @ file:///C:/miniconda3/conda-bld/idna_1761912044050/work
+implicit @ file:///D:/bld/implicit_1754609350610/work
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1765794027227/work
+numpy @ file:///D:/bld/bld/rattler-build_numpy_1768085583/work/dist/numpy-2.4.1-cp311-cp311-win_amd64.whl#sha256=97173d0adeb85a15bb4fbe7c2b55ef56e51ca21268c17edaa14d0c38c455491a
+pandas @ file:///D:/bld/pandas_1764614503455/work
+pycparser @ file:///C:/miniconda3/conda-bld/pycparser_1757496060165/work
+pydantic==2.12.5
+pydantic_core==2.41.5
+PySocks @ file:///C:/miniconda3/conda-bld/pysocks_1761753028158/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-dateutil_1751104122/work
+python-dotenv==1.2.1
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1742920838005/work
+PyYAML==6.0.3
+requests @ file:///C:/miniconda3/conda-bld/requests_1762359611410/work
+scikit-learn @ file:///D:/bld/bld/rattler-build_scikit-learn_1765801251/work/dist/scikit_learn-1.8.0-cp311-cp311-win_amd64.whl#sha256=6b709d3d1e68d89c77b77f0fb7aa31e6f68e5148d615ecd56f94da3e1262056b
+scipy @ file:///C:/bld/scipy-split_1768134536967/work/dist/scipy-1.17.0-cp311-cp311-win_amd64.whl#sha256=406ba8f71254b6f8a6107c7e661ac2dafea71192d0c3c8f23740401575b0c14e
+six @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_six_1753199211/work
+starlette==0.50.0
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1741878222898/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1735661334605/work
+typing-inspection==0.4.2
+typing_extensions==4.15.0
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1765719872007/work
+urllib3 @ file:///C:/Users/task_176781036847582/croot/urllib3_1767810492638/work
+uvicorn==0.40.0
+watchfiles==1.1.1
+websockets==16.0
+win_inet_pton @ file:///C:/miniconda3/conda-bld/win_inet_pton_1761746278197/work
